@@ -5,6 +5,7 @@ website:
   title: "" 
   site-url: https://melaniemml.github.io/Prof-website/
   repo-url: https://github.com/melaniemml/Prof-website
+  search: false
   navbar:
     left:
       - href: index.qmd

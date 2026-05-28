@@ -1,6 +1,7 @@
 ---
 page-layout: full
 title: Melanie Medina López, PhD
+sidebar: false
 ---
 
 :::::::::: columns
@@ -9,11 +10,9 @@ title: Melanie Medina López, PhD
 ::: about-photo
 ![](images/MedinaLopez_Melanie_cropped.jpg){width="210"}
 :::
-
 ::: about-links
 [<i class="bi bi-github" style="font-size: 1.5rem;"></i>](https://github.com/melaniemml) [<i class="bi bi-linkedin" style="font-size: 1.5rem;"></i>](https://www.linkedin.com/in/melanie-medina-lopez-893a81158/) [<i class="bi bi-envelope-at-fill" style="font-size: 1.5rem;"></i>](mailto:mkm6528@psu.edu)
 :::
-
 ::: about-button
 <a href="images/26Mar_CV_MedinaLopez.pdf" class="btn btn-secondary" role="button" target="_blank"> View CV </a>
 :::
